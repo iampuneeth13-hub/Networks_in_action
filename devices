@@ -2,6 +2,7 @@ host/server
   ip address
   network
   repeater
+  hub
   switch
   bridge
   router
