@@ -1,0 +1,18 @@
+PHYSICAL LAYER
+something that tranfers bits can be wire,wifietx and is called layer 1 technology.
+ex:wire,wifi,repeaters,hub
+
+DATA LAYER/DATA LINK
+hop and hop
+something that takes and puts bits in the physical layer
+addressing scheme: mac address . mac address is 48bit 12 hex digits. every nic has unique mac address[ also router has unique mac address]
+ex:network interface card and wifi access card ,switchwes
+
+NETWORK LAYER
+end to end 
+addressing scheme:ip address
+ex:router,hosts
+
+NOTE:ADDRESS RESOLUTION PROTOCOL
+LAYER2 AND LAYER3
+
