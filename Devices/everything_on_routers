@@ -1,0 +1,13 @@
+RCF- request for comments- this defines the rules of networking
+RCF 2460 ----> IPV6 specifications
+Treminologies of RCF are: nodes->that impliments ipv6
+                          Router -> a node that forwards IPv6 packets not explicitly addressed to itself.
+                          Host -> any node that is not a router. 
+                          
+routers can have multiple IP and mac address based on the no. of interfaces or networks it is connected to.
+router has a table called routing table that has routes in it.
+
+Router uses three diff. ways to propogate data 
+1.Direct method : where the router is directly connected to the interfaces like left and rright interfaces
+2.Static method : where an administrator helps with the updating routing table in a indirectly connected interfaces
+3.Dynamic method: where the routers themself share the interface details that they have .
