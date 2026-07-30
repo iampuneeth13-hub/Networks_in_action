@@ -1,0 +1,8 @@
+Router Table 
+ip_adress/subnet---->gateway like left, right, gateway iP
+
+ARP table 
+ip_address---->mac_address
+an arp message contains an the senders own ip_address and mac_address asking for the Mac_address of connected devies in its network
+an arp message as only layer2 and arp message , 
+where in arp broadcasting layer 2 has src mac_addresss:a1a2 and destination mac_address:FFFF.FFFF.FFFF
