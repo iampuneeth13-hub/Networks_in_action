@@ -8,3 +8,17 @@ RETR REQUEST FROM RECIEVER TO SERVER , RETR STANDS FOR RETREIVE
 HELO AND 250 AND OTHER COMMANDS ARE USED IN THIS .
 
 4.HTTP-HYPER TEXT TRANSFER PROTOCOL
+html pages are exchanged through http
+ get-request    ,    200 ok-response with the requested page
+
+5&6.SSL-SECURE SOCKETS LAYER    , TLS-TRANSPORT LAYER PROTOCOL
+these create  ecure tunnel to perform http thing
+
+7.HTTPS-HTTP SCEURED WITH SSL/TLS
+
+8.DNS-DOMAIN NAME SYSTEM
+converts domain name into ip address
+ex:site.com--->160.8.23.154
+
+9.DHCP-DYNAMIC HOST CONFIGURATION PROTOCOL
+DHCP server provides IP,Subnet mask,Default gateway,and dns for clients
