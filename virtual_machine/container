@@ -11,3 +11,6 @@ They remain isolated from each other, so a misbehaving container doesn’t affec
 They can run consistently on any machine, making them perfect for development, testing, and scalable deployments.
 The easiest way to deploy containers in a VM is using Docker.
 Docker is an open-source software platform that simplifies the process of building, deploying, and running applications using containerization.
+
+
+Container Images: A pre-packed recipe/template used to create containers.
