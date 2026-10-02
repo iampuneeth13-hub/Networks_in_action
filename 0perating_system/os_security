@@ -1,0 +1,10 @@
+Operating System Security
+It is important to understand that every OS also acts as a security foundation. Before any antivirus, firewall, or security tool is introduced, the OS is already 
+enforcing protections in the background, some of which we covered above.
+
+At a basic level, your operating system handles
+
+Authentication: Verifies who you are through login passwords and biometrics
+Permissions: Controls exactly what each user and app is allowed to read, write, or execute
+Isolation: Keeps every process in its own protected box (kernel/user space separation)
+System Protection: Safeguards critical system files and settings from unauthorized changes
