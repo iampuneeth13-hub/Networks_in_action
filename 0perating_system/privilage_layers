@@ -1,0 +1,10 @@
+System Privilege Layers
+
+Inside a modern computer, different parts of the system operate at various permission levels.Some components can communicate directly with the hardware, while 
+regular applications run in a safer, restricted environment.This separation is intentional and helps prevent conflicts and security issues.
+
+Kernel space: The privileged, locked-down core of the OS. This is where the kernel, the part of the operating system that directly manages hardware and system 
+              resources, runs.It has unrestricted access to the CPU, memory, storage, and all hardware components.
+
+User space: Where all standard applications run. Applications in the user space are deliberately prevented from accessing hardware directly. Whenever they need to
+            open or save a file, play a sound, or connect to Wi-Fi, they must make a system call and request that the kernel act on their behalf.
