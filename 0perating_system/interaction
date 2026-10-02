@@ -1,0 +1,14 @@
+Interaction with the OS can be divided into two main parts:
+the graphical user interface (GUI) and the command-line interface (CLI).
+
+Graphical User Interface
+
+The GUI is what you're most likely used to interacting with. It provides a graphical representation of all the information you want to access on your computer.
+Think of folder icons, windows for your applications, and menus for settings. We can imagine the analogy of using a navigation application. You tap an icon of the 
+place you want to visit, and the app generates directions for you, eliminating the need for typing.
+
+Command-line Interface
+
+The CLI is where you enter specific text-based commands to retrieve or manipulate information. Instead of clicking on icons, you tell the computer exactly what you 
+want using words and syntax that the system understands. This gives you far more precision, control, and speed, especially for advanced tasks, but it requires 
+familiarity with the commands.
